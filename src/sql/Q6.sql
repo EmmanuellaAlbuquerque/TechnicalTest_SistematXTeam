@@ -1,0 +1,1 @@
+SELECT name FROM TechnicalTest_SistematXTeam.molecules WHERE structure = 'C8H10N4O2';

@@ -14,7 +14,8 @@ SISTEMAT X Web, sigla de "SISTEMAT eXtended Webservices", é um conjunto de ferr
 
 ### Descrição do Desafio (Teste de Lógica)
 
-
+#### URL do teste de lógica:
+[Teste de Lógica (SistematXTeam) - Google Forms](https://forms.gle/x99RzzG4KV7U9os87 "Teste de Lógica (SistematXTeam) - Google Forms")
 
 ## Projeto: MolPredictX
 
