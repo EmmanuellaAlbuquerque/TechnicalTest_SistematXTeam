@@ -1,8 +1,10 @@
 <p align="center">
-    <img src=".github/images/SistematXTeam.png" height="70" >
+    <img src=".github/images/SistematXTeam.png" height="90" >
 </p>
 
-# Teste Técnico (SistematX Team)
+# 🔨 Teste Técnico (SistematX Team)
+
+</br>
 
 ## Projeto: SistematX
 
@@ -12,10 +14,14 @@ SISTEMAT X Web, sigla de "SISTEMAT eXtended Webservices", é um conjunto de ferr
 
 - Link: [SistematX](http://sistematx.ufpb.br/)
 
-### Descrição do Desafio (Teste de Lógica)
+### :test_tube: Descrição do Desafio (Teste de Lógica)
 
 #### URL do teste de lógica:
 [Teste de Lógica (SistematXTeam) - Google Forms](https://forms.gle/x99RzzG4KV7U9os87 "Teste de Lógica (SistematXTeam) - Google Forms")
+
+OBS.: os códigos utilizados nas questões se encontram na pasta /src
+
+</br>
 
 ## Projeto: MolPredictX
 
@@ -25,9 +31,7 @@ MolPredictX é uma ferramenta web que permite à comunidade científica obter pr
 
 - Link: [MolPredictX](https://www.molpredictx.ufpb.br/)
 
-### Descrição do Desafio (Lidando com Requisições HTTP)
-
----
+### :test_tube: Descrição do Desafio (Lidando com Requisições HTTP)
 
 <p align="center">
     <img src=".github/images/InsomniaRequest.png">
